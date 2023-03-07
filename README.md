@@ -11,18 +11,18 @@ npm install
 
 站点目录结构   
 
-├── public
-└── src
-    ├── client
-    │   ├── Components
-    │   ├── Less
-    │   ├── Services
-    │   └── types
-    └── server
-        ├── domain
-        ├── middlewares
-        ├── models
-        ├── route
-        │   └── routes
-        ├── test
-        └── untils
+├── public  
+└── src  
+    ├── client  
+    │   ├── Components  
+    │   ├── Less  
+    │   ├── Services  
+    │   └── types  
+    └── server  
+        ├── domain  
+        ├── middlewares  
+        ├── models  
+        ├── route  
+        │   └── routes  
+        ├── test  
+        └── untils  
